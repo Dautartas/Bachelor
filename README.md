@@ -3,5 +3,4 @@
 The Faculty of Mathematics and Informatics of Vilnius University
 
 Author: Dautartas Valvonis
-## Code
-[Code](Bachelor.ipynb)
+## [Code](Bachelor.ipynb)
